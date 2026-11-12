@@ -15,7 +15,7 @@
         "fountain": "nasone"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.5031327,
           41.8953181
@@ -27,13 +27,13 @@
       "id": "node/246574145",
       "properties": {
         "@id": "node/246574145",
-        "amenity": "Line_water",
+        "amenity": "drinking_water",
         "check_date": "2023-12-31",
         "flow": "constant",
         "fountain": "nasone"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.5030581,
           41.8952417
@@ -45,13 +45,13 @@
       "id": "node/246574149",
       "properties": {
         "@id": "node/246574149",
-        "amenity": "Line_water",
+        "amenity": "drinking_water",
         "flow": "push-button",
         "fountain": "nasone",
         "wikimedia_commons": "File:Drinking fountain, Via Leonina, Roma, Italia May 03, 2023 07-31-24 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4919399,
           41.894806
@@ -63,14 +63,14 @@
       "id": "node/246574150",
       "properties": {
         "@id": "node/246574150",
-        "amenity": "line_water",
+        "amenity": "drinking_water",
         "check_date": "2026-04-30",
         "fee": "no",
         "fountain": "nasone",
         "wikimedia_commons": "File:Fountain Piazza dei Serpenti, Roma, Italia Oct 05, 2022 04-43-54 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4909457,
           41.8948869
@@ -82,12 +82,12 @@
       "id": "node/246574151",
       "properties": {
         "@id": "node/246574151",
-        "amenity": "line_water",
+        "amenity": "drinking_water",
         "fountain": "nasone",
         "wikimedia_commons": "File:Drinking fountain Via degli Ibernesi, Roma, Italia Jul 08, 2023 05-22-02 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.487739,
           41.8944984
@@ -99,7 +99,7 @@
       "id": "node/248743319",
       "properties": {
         "@id": "node/248743319",
-        "amenity": "line_water",
+        "amenity": "drinking_water",
         "capacity": "3",
         "fountain": "nasone",
         "name": "Fontana delle tre cannelle",
@@ -107,7 +107,7 @@
         "wikimedia_commons": "File:Fontanella delle tre cannelle.jpg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4859132,
           41.8967142
@@ -119,13 +119,13 @@
       "id": "node/248743322",
       "properties": {
         "@id": "node/248743322",
-        "amenity": "line_water",
+        "amenity": "drinking_water",
         "fountain": "drinking",
         "wheelchair": "limited",
         "wikimedia_commons": "File:Drinking fountain, Largo Angelicum, Roma, Italia Jul 08, 2023 05-19-02 PM.jpeg"
       },
       "geometry": {
-        "type": "line",
+        "type": "Point",
         "coordinates": [
           12.4870372,
           41.8960661
@@ -142,7 +142,7 @@
         "wikimedia_commons": "File:Drinking fountain in via dei Serpenti, Roma, Italia Oct 24, 2025 12-33-07 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4903891,
           41.8959904
@@ -159,7 +159,7 @@
         "wikimedia_commons": "File:Drinking fountain, Belvedere Romolo e Remo, Circo Massimo, Roma, Italia Jun 16, 2023 11-48-14 AM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.485289,
           41.885391
@@ -176,7 +176,7 @@
         "wikimedia_commons": "File:Drinking fountain, via del Circo Massimo, Roma, Italia Jun 16, 2023 12-02-12 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4827727,
           41.8870009
@@ -195,7 +195,7 @@
         "wikimedia_commons": "File:Drinking fountain Campidoglio, Roma, Italia Jul 08, 2023 05-48-27 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4838554,
           41.8933168
@@ -229,7 +229,7 @@
         "created_by": "JOSM"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4929031,
           41.8961224
@@ -244,7 +244,7 @@
         "amenity": "drinking_water"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.49709,
           41.8961363
@@ -261,7 +261,7 @@
         "wikimedia_commons": "File:Nasone Merulana, Roma, Italia Mar 22, 2022 04-53-33 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.5022052,
           41.8917675
@@ -280,7 +280,7 @@
         "wikimedia_commons": "File:Drinking fountain in Via della Ferratella in Laterano, Roma, Italia Mar 28, 2025 10-23-02 AM.jpeg"
       },
       "geometry": {
-        "type": "Linet",
+        "type": "Point",
         "coordinates": [
           12.5030297,
           41.8835122
@@ -296,7 +296,7 @@
         "fountain": "nasone"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4963709,
           41.8947199
@@ -312,7 +312,7 @@
         "fountain": "nasone"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4809626,
           41.8883122
@@ -329,7 +329,7 @@
         "wikimedia_commons": "File:Drinking fountain in Largo della Polveriera, Roma, Italia Sep 22, 2025 01-16-07 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4931113,
           41.8926848
@@ -346,7 +346,7 @@
         "fountain": "drinking"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4901658,
           41.8932611
@@ -364,7 +364,7 @@
         "wikimedia_commons": "File:Nasone, Viale Aventino, Roma, Italia Nov 04, 2020 09-28-54 AM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4875256,
           41.8833501
@@ -381,7 +381,7 @@
         "wikimedia_commons": "File:Roman wolf fountain, Parco del Celio, Roma, Italia Sep 01, 2020 12-32-47 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.494358,
           41.8855249
@@ -398,7 +398,7 @@
         "wikimedia_commons": "File:Roman Wolf Fountain, Villa Celimontana, Roma, Italia Sep 01, 2020 12-41-19 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4947844,
           41.8837598
@@ -415,7 +415,7 @@
         "wikimedia_commons": "File:Roman wolf fountain, Celio, Roma, Italia Sep 01, 2020 12-03-35 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4932314,
           41.8854777
@@ -430,7 +430,7 @@
         "amenity": "drinking_water"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.5009036,
           41.889461
@@ -448,7 +448,7 @@
         "fountain": "nasone"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4922226,
           41.8963253
@@ -467,7 +467,7 @@
         "wikimedia_commons": "File:Nasone via botta, Roma, Italia Jun 30, 2022 06-23-28 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.5003989,
           41.8915913
@@ -484,7 +484,7 @@
         "wikimedia_commons": "File:Drinking fountain at Via Merulana, Brancaccio, Roma, Italia Sep 12, 2025 10-48-50 AM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.5010324,
           41.8937726
@@ -499,7 +499,7 @@
         "amenity": "drinking_water"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4949446,
           41.8869371
@@ -515,7 +515,7 @@
         "fountain": "nasone"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.494519,
           41.8877413
@@ -531,7 +531,7 @@
         "fountain": "nasone"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.5029448,
           41.8903641
@@ -549,7 +549,7 @@
         "wikimedia_commons": "File:Drinking fountain in Parco del Colle Oppio, Roma, Italia Sep 22, 2025 01-18-55 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4934283,
           41.8913309
@@ -566,7 +566,7 @@
         "wikimedia_commons": "File:Drinking fountain in Via della Ferratella in Laterano, Rome, Italy Mar 30, 2024 12-33-07 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4997696,
           41.8829156
@@ -585,7 +585,7 @@
         "wikimedia_commons": "File:Drinking fountain in the Orti Farnesiani sul Palatino, Roma, Italia Mar 01, 2026 04-32-10 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4867108,
           41.8902623
@@ -601,7 +601,7 @@
         "check_date": "2021-11-01"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4875779,
           41.8891234
@@ -618,7 +618,7 @@
         "wikimedia_commons": "File:Nasone, Viale delle Terme di Caracalla, Roma, Italia Sep 01, 2020 10-57-05 AM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4915911,
           41.8829819
@@ -635,7 +635,7 @@
         "man_made": "water_tap"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4879526,
           41.8887986
@@ -652,7 +652,7 @@
         "man_made": "water_tap"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4883755,
           41.890985
@@ -669,7 +669,7 @@
         "wikimedia_commons": "File:Fountain, Foro Romano, Roma, Italia Mar 15, 2022 10-52-31 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4824521,
           41.8922224
@@ -686,7 +686,7 @@
         "wikimedia_commons": "File:Nasone via dei santi Quattro,roma,italy 62022.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4968765,
           41.8889852
@@ -703,7 +703,7 @@
         "wikimedia_commons": "File:Drinking fountain in Piazza Celimontana, Roma, Italia Jul 12, 2025 04-51-22 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4954695,
           41.8867552
@@ -720,7 +720,7 @@
         "wikimedia_commons": "File:Drinking fountain, Piazza del Colosseo, Rome, Italy Oct 28, 2023 06-05-04 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4942213,
           41.8900377
@@ -737,7 +737,7 @@
         "wikimedia_commons": "File:Drinking fountain Via degli Zingari, Roma, Italia May 03, 2023 07-35-28 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4919485,
           41.8952404
@@ -756,7 +756,7 @@
         "wikimedia_commons": "File:Drinking fountain on the Foro Romano, Roma, Italia Mar 01, 2026 04-11-51 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4883955,
           41.8907173
@@ -771,7 +771,7 @@
         "amenity": "drinking_water"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.5019658,
           41.8890191
@@ -786,7 +786,7 @@
         "amenity": "drinking_water"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4878685,
           41.8968428
@@ -804,7 +804,7 @@
         "wikimedia_commons": "File:Nasone via mecenate, Roma, Italia Jun 30, 2022 06-19-16 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4987211,
           41.8911676
@@ -822,7 +822,7 @@
         "wikimedia_commons": "File:Drinking fountain in Via San Giovanni in Laterano, Roma, Italia May 01, 2025 05-08-26 PM.jpg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.5020523,
           41.8877205
@@ -839,7 +839,7 @@
         "wikimedia_commons": "File:Nasone Piazza della Consolazione, Roma, Italia Sep 08, 2021 06-22-13 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4821627,
           41.8911658
@@ -855,7 +855,7 @@
         "fountain": "nasone"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4841145,
           41.8915162
@@ -870,7 +870,7 @@
         "amenity": "drinking_water"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4934389,
           41.8873381
@@ -885,7 +885,7 @@
         "amenity": "drinking_water"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4927208,
           41.8867114
@@ -905,7 +905,7 @@
         "wikimedia_commons": "File:Drinking fountain in Piazza degli Zingari, Roma, Italia Aug 03, 2025 12-35-42 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4931902,
           41.8955726
@@ -922,7 +922,7 @@
         "wikimedia_commons": "File:Nasone piazza di San Gregorio, Roma, Italia Sep 01, 2020 11-51-42 AM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.490124,
           41.8863528
@@ -940,7 +940,7 @@
         "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-51-16 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4978518,
           41.8912427
@@ -958,7 +958,7 @@
         "wikimedia_commons": "File:Drinking fountain, Parco del Colle Oppio, Roma, Italia Jun 30, 2022 07-49-50 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4973968,
           41.8913872
@@ -975,7 +975,7 @@
         "wikimedia_commons": "File:Drinking fountain at Largo Gaetana Agnesi, Colosseo, Roma, Italia Sep 22, 2025 11-22-58 AM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.491523,
           41.8917992
@@ -992,7 +992,7 @@
         "wikimedia_commons": "File:Drinking fountain, Piazza di San Pietro in Vincoli, Roma, Italia May 03, 2023 10-23-44 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4923174,
           41.8936702
@@ -1009,7 +1009,7 @@
         "man_made": "water_tap"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4884569,
           41.8880861
@@ -1026,7 +1026,7 @@
         "level": "1"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4936946,
           41.8939824
@@ -1043,7 +1043,7 @@
         "fountain": "drinking"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4941377,
           41.8971021
@@ -1060,7 +1060,7 @@
         "wikimedia_commons": "File:Fountain Via in Miranda, Foro Romano, Roma, Italia Oct 05, 2022 04-55-47 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4870814,
           41.8924043
@@ -1083,7 +1083,7 @@
         "wikimedia_commons": "File:Drinking water tap, Colosseo, Roma, Italia Mar 11, 2023 03-29-29 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4926424,
           41.8906483
@@ -1101,7 +1101,7 @@
         "man_made": "water_tap"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4941883,
           41.8915996
@@ -1118,7 +1118,7 @@
         "wikimedia_commons": "File:Nasone Via Marco Aurelio, Roma, Italia Jun 30, 2022 08-08-32 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4955486,
           41.8882028
@@ -1145,7 +1145,7 @@
         "wikimedia_commons": "File:Casetta dell’acqua al Colosseo, Roma, Italia Mar 11, 2023 04-38-01 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4918731,
           41.8894443
@@ -1162,7 +1162,7 @@
         "wikimedia_commons": "File:Drinking fountain in Via delle Vasche, Roma, Italia Aug 03, 2025 12-32-47 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4947756,
           41.8966135
@@ -1177,7 +1177,7 @@
         "amenity": "drinking_water"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4847106,
           41.8877336
@@ -1195,7 +1195,7 @@
         "wikimedia_commons": "File:Drinking fountain in Parco del Colle Oppio, Roma, Italia Oct 03, 2025 11-02-58 AM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4971047,
           41.8931636
@@ -1210,7 +1210,7 @@
         "amenity": "drinking_water"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4836941,
           41.8923945
@@ -1228,7 +1228,7 @@
         "note": "this is a unique historic drinking fountain, not a nasone"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4818028,
           41.8919755
@@ -1245,7 +1245,7 @@
         "wikimedia_commons": "File:Drinking fountain, via dei Fienili, Roma, Italia Jun 16, 2023 12-08-40 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4825648,
           41.8909862
@@ -1262,7 +1262,7 @@
         "wikimedia_commons": "File:Drinking fountain, Giardino delle Rose, Rome, Italy Oct 08, 2023 04-46-26 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4829659,
           41.8845222
@@ -1283,7 +1283,7 @@
         "wikimedia_commons": "File:Drinking water at the Museo della Forma Urbis, Rome, Italy Mar 30, 2024 01-12-54 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4910146,
           41.886821
@@ -1300,7 +1300,7 @@
         "wikimedia_commons": "File:Drinking fountain in Parco del Colle Oppio, Roma, Italia Oct 03, 2025 11-07-06 AM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4947847,
           41.8927804
@@ -1316,7 +1316,7 @@
         "fountain": "drinking"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4896798,
           41.89035
@@ -1332,7 +1332,7 @@
         "fountain": "drinking"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4902836,
           41.8901826
@@ -1348,7 +1348,7 @@
         "fountain": "drinking"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4892954,
           41.8904503
@@ -1365,7 +1365,7 @@
         "fountain": "bottle_refill"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4870232,
           41.8924751
@@ -1384,7 +1384,7 @@
         "opening_hours": "24/7"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4902565,
           41.8898644
@@ -1399,7 +1399,7 @@
         "amenity": "drinking_water"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4870931,
           41.8906947
@@ -1414,7 +1414,7 @@
         "amenity": "drinking_water"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4978446,
           41.8930706
@@ -1431,7 +1431,7 @@
         "wikimedia_commons": "File:Drinking fountain in Via dei Quattro Cantoni, Roma, Italia Aug 03, 2025 12-28-36 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4961563,
           41.8967454
@@ -1446,7 +1446,7 @@
         "amenity": "drinking_water"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4917548,
           41.8904357
@@ -1466,7 +1466,7 @@
         "wikimedia_commons": "File:Drinking fountain in the Foro Romano, Roma, Italia Oct 04, 2026 06-00-02 PM.jpeg"
       },
       "geometry": {
-        "type": "Line",
+        "type": "Point",
         "coordinates": [
           12.4845604,
           41.8934907
